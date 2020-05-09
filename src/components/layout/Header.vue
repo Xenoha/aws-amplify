@@ -1,6 +1,6 @@
 <template>
-  <v-toolbar>
-    <v-app-bar-nav-icon></v-app-bar-nav-icon>
+  <v-toolbar color="#424242" dark>
+    <v-app-bar-nav-icon to="/"></v-app-bar-nav-icon>
     <v-toolbar-title class="headline">Serverless Experience</v-toolbar-title>
     <v-spacer></v-spacer>
     <v-toolbar-items class="hidden-sm-and-down">
